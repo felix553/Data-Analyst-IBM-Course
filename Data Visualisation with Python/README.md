@@ -1,26 +1,29 @@
-# Data Visualization and Dashboards with Excel and Cognos
+# Data Visualisation with Python 
 
 ## 📄 Summary 
-Learn how to create data visualizations and dashboards using spreadsheets and analytics tools. This course covers some of the first steps for telling a compelling story with your data using various types of charts and graphs. You'll learn the basics of visualizing data with Excel and IBM Cognos Analytics without having to write any code. 
+One of the most important skills of successful data scientists and data analysts is the ability to tell a compelling story by visualizing data and findings in an approachable and stimulating way. In this course you will learn many ways to effectively visualize both small and large-scale data. You will be able to take data that at first glance has little meaning and present that data in a form that conveys insights. 
 
-You'll start by creating simple charts in Excel such as line, pie and bar charts. You will then create more advanced visualizations with Treemaps, Scatter Charts, Histograms, Filled Map Charts, and Sparklines. Next you’ll also work with the Excel PivotChart feature as well as assemble several visualizations in an Excel dashboard.  
+This course will teach you to work with many Data Visualization tools and techniques. You will learn to create various types of basic and advanced graphs and charts like: Waffle Charts, Area Plots, Histograms, Bar Charts, Pie Charts, Scatter Plots, Word Clouds, Choropleth Maps, and many more! You will also create interactive dashboards that allow even those without any Data Science experience to better understand data, and make more effective and informed decisions.   
 
-This course also teaches you how to use business intelligence (BI) tools like Cognos Analytics  to create interactive dashboards. By the end of the course you will have an appreciation for the key role that data visualizations play in communicating your data analysis findings, and the ability to effectively create them. 
-
-Throughout this course there will be numerous hands-on labs to help you develop practical experience for working with Excel and Cognos. There is also a final project in which you’ll create a set of data visualizations and an interactive dashboard to add to your portfolio, which you can share with peers, professional communities or prospective employers.
+You will learn hands-on by completing numerous labs and a final project to practice and apply the many aspects and techniques of Data Visualization using Jupyter Notebooks and a Cloud-based IDE. You will use several data visualization libraries in Python, including Matplotlib, Seaborn, Folium, Plotly & Dash.
 
 
 
 ## 📑 Main Topics 
-- Visualizing Data Using Spreadsheets
-- Creating Visualizations and Dashboards with Spreadsheets
-- Creating Visualizations and Dashboards with Cognos Analytics
+- Data Visualisation Tools
+- Specialised Visualisation Tools 
+- Advanced Visualisations and Geospatial Data
+- Dashboards with Plotly and Dash
 
 ## 📑 Projects
-- [Dashboard Project on Car Sales](Data%20Visualisation%20and%20Dashboards%20with%20Excel%20and%20Cognos/Week%204/Dashboard.pdf/) :
-Demonstrate hands-on skills to create visualizations using Excel
-Apply hands-on skills to create visualizations and interactive dashboards using Cognos Analytics.
-Evaluate the predictive models project developed by your peers using the provided rubric and grading scheme
+- [Analysing the Impact of Recession on Automobile Sales](Data%20Visualisation%20with%20Python/Week%205/Final%20Assignment%20Part2%20Dashboard.py) :
+You have been hired by XYZAutomotives as a data scientist. Your first task is to analyze the historical data and give the company directors insights on how the sales were affected during times of recession. You will provide a number of charts/plots to visualize the data and make it easy for the directors to understand your analysis.
+
+<p align='middle'>
+  <img src="Week 5\Final Assignment Part 2\Results.png.png" height="300">
+  <img src="Week 5\Final Assignment Part 2\Results2.png.png" height="300">
+
+</p>
 
 
 
@@ -30,6 +33,6 @@ To verify the certificates, click the images to follow the links.
 
 
 <p align="middle">
-  <a href="https://coursera.org/share/f544e7b4ec6b124e885c62c6eb36f5eb"><img src="Certificate.png" height="430"></a>
+  <a href="https://coursera.org/share/27b879ba54dcaed3c1ff7f2f589915fe"><img src="Certificate.png" height="430"></a>
 
 </p>

@@ -13,7 +13,7 @@ You will perform specific data science and data analytics tasks such as extracti
 - BeautifulSoup
 
 ## 📑 Projects
-- [Analysing Stock Performance and Building a Dashboard](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx/) :
+- [Analysing Stock Performance and Building a Dashboard](Python%20Project%20for%20Data%20Science/Week%201/Final%20Assignment.ipynb) :
 For this project, you will assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. Your job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data you will visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, Amazon, AMD, and GameStop.
 
 <p align='middle'>
@@ -32,6 +32,6 @@ To verify the certificates, click the images to follow the links.
 
 
 <p align="middle">
-  <a href="https://coursera.org/share/5a48288ffc6d28615d5e0ec5d1ba0b81"><img src="Certificate.png" height="430"></a>
+  <a href="https://coursera.org/share/0d177d44869ac0124017daba122cea8f"><img src="Certificate.png" height="430"></a>
 
 </p>

@@ -12,7 +12,7 @@ Spreadsheet tools like Excel are an essential tool for working with data - wheth
 - Analyzing Data Using Spreadsheets
 
 ## 📑 Projects
-- [Excel Project on Fleet Inventory Data](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx/) :
+- [Excel Project on Fleet Inventory Data](Excel%20Basics%20for%20Data%20Analysis/Week%205/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx) :
 Demonstrate hands-on skills to clean, prepare, and analyze data for a business scenario.
 Apply data cleansing and analysis techniques in an Excel spreadsheet.
 Evaluate the data analysis project developed by your peers using the provided rubric and grading scheme

@@ -1,26 +1,26 @@
-# Data Visualization and Dashboards with Excel and Cognos
+# IBM Data Analyst Capstone Project
 
 ## 📄 Summary 
-Learn how to create data visualizations and dashboards using spreadsheets and analytics tools. This course covers some of the first steps for telling a compelling story with your data using various types of charts and graphs. You'll learn the basics of visualizing data with Excel and IBM Cognos Analytics without having to write any code. 
+By completing this final capstone project you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets.  
 
-You'll start by creating simple charts in Excel such as line, pie and bar charts. You will then create more advanced visualizations with Treemaps, Scatter Charts, Histograms, Filled Map Charts, and Sparklines. Next you’ll also work with the Excel PivotChart feature as well as assemble several visualizations in an Excel dashboard.  
+The project will culminate with a presentation of your data analysis report for various stakeholders in the organization. The report will include an executive summary, your analysis, and a conclusion. You will be assessed on both your work for the various stages in the Data Analysis process, as well as the final deliverable. 
 
-This course also teaches you how to use business intelligence (BI) tools like Cognos Analytics  to create interactive dashboards. By the end of the course you will have an appreciation for the key role that data visualizations play in communicating your data analysis findings, and the ability to effectively create them. 
+As part of this project you will demonstrate your proficiency with using Jupyter Notebooks, SQL, Relational Databases (RDBMS), Business Intelligence (BI) tools like Cognos, and Python Libraries such as Pandas, Numpy, Scikit-learn, Scipy, Matplotlib, Seaborn and others.  
 
-Throughout this course there will be numerous hands-on labs to help you develop practical experience for working with Excel and Cognos. There is also a final project in which you’ll create a set of data visualizations and an interactive dashboard to add to your portfolio, which you can share with peers, professional communities or prospective employers.
-
+This project is a great addition to your portfolio and an opportunity to showcase your Data Analytics skills to prospective employers.
 
 
 ## 📑 Main Topics 
-- Visualizing Data Using Spreadsheets
-- Creating Visualizations and Dashboards with Spreadsheets
-- Creating Visualizations and Dashboards with Cognos Analytics
+- Data Collection from Multiple Sources
+- Data Wrangling and Data Preparation
+- Exploratory Data Analysis
+- Statistical Analysis and Data Mining
+- Data Visualisation with Different Charts and Plots
+- Interactive Dashboard Creation 
 
 ## 📑 Projects
-- [Dashboard Project on Car Sales](Data%20Visualisation%20and%20Dashboards%20with%20Excel%20and%20Cognos/Week%204/Dashboard.pdf/) :
-Demonstrate hands-on skills to create visualizations using Excel
-Apply hands-on skills to create visualizations and interactive dashboards using Cognos Analytics.
-Evaluate the predictive models project developed by your peers using the provided rubric and grading scheme
+- [Technology Survey Analytics](IBM%20Data%20Analyst%20Capstone%20Project/Week%206/Final%20Presentation.pdf) :
+Data insights into demographics of employees in IT sector, as well as popularity of IT coding languages and frameworks. 
 
 
 
@@ -30,6 +30,6 @@ To verify the certificates, click the images to follow the links.
 
 
 <p align="middle">
-  <a href="https://coursera.org/share/f544e7b4ec6b124e885c62c6eb36f5eb"><img src="Certificate.png" height="430"></a>
+  <a href="https://coursera.org/share/0a1b380e88dccdd4f19c3b73079f44b3"><img src="Certificate.png" height="430"></a>
 
 </p>

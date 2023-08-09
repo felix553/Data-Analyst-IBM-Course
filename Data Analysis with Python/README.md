@@ -1,26 +1,29 @@
-# Data Visualization and Dashboards with Excel and Cognos
+# Data Analysis with Python
 
 ## 📄 Summary 
-Learn how to create data visualizations and dashboards using spreadsheets and analytics tools. This course covers some of the first steps for telling a compelling story with your data using various types of charts and graphs. You'll learn the basics of visualizing data with Excel and IBM Cognos Analytics without having to write any code. 
+Analyzing data with Python is an essential skill for Data Scientists and Data Analysts. This course will take you from the basics of data analysis with Python to building and evaluating data models.  
 
-You'll start by creating simple charts in Excel such as line, pie and bar charts. You will then create more advanced visualizations with Treemaps, Scatter Charts, Histograms, Filled Map Charts, and Sparklines. Next you’ll also work with the Excel PivotChart feature as well as assemble several visualizations in an Excel dashboard.  
+You will learn how to import data from multiple sources, clean and wrangle data, perform exploratory data analysis (EDA), and create meaningful data visualizations. You will then predict future trends from data by developing linear, multiple, polynomial regression models & pipelines and learn how to evaluate them.  
 
-This course also teaches you how to use business intelligence (BI) tools like Cognos Analytics  to create interactive dashboards. By the end of the course you will have an appreciation for the key role that data visualizations play in communicating your data analysis findings, and the ability to effectively create them. 
+In addition to video lectures you will learn and practice using hands-on labs and projects. You will work with several open source Python libraries, including Pandas and Numpy to load, manipulate, analyze, and visualize cool datasets. You will also work with scipy and scikit-learn, to build machine learning models and make predictions.  
 
-Throughout this course there will be numerous hands-on labs to help you develop practical experience for working with Excel and Cognos. There is also a final project in which you’ll create a set of data visualizations and an interactive dashboard to add to your portfolio, which you can share with peers, professional communities or prospective employers.
+If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge.
 
 
 
 ## 📑 Main Topics 
-- Visualizing Data Using Spreadsheets
-- Creating Visualizations and Dashboards with Spreadsheets
-- Creating Visualizations and Dashboards with Cognos Analytics
+- Collecting and Importing Data
+- Cleaning, Preparing & Formatting Data
+- Data Frame Manipulation
+- Summarising Data
+- Building Machine Learning Regression Models
+- Model Development and Evaluation
+- Model Refinement
+- Creating Data Pipelines
 
 ## 📑 Projects
-- [Dashboard Project on Car Sales](Data%20Visualisation%20and%20Dashboards%20with%20Excel%20and%20Cognos/Week%204/Dashboard.pdf/) :
-Demonstrate hands-on skills to create visualizations using Excel
-Apply hands-on skills to create visualizations and interactive dashboards using Cognos Analytics.
-Evaluate the predictive models project developed by your peers using the provided rubric and grading scheme
+- [Analysis of Housing Prices for Real Estate](Data%20Analysis%20with%20Python/Week%206/House_Sales_in_King_Count_USA.ipynb) :
+In this final assignment, you will assume the role of a Data Analyst working at a real estate investment trust organization who wants to start investing in residential real estate. You will be given a dataset containing detailed information about house prices in the region based on a number of property features, and it will be your job to analyze and predict the market price of houses given that information.
 
 
 
@@ -30,6 +33,6 @@ To verify the certificates, click the images to follow the links.
 
 
 <p align="middle">
-  <a href="https://coursera.org/share/f544e7b4ec6b124e885c62c6eb36f5eb"><img src="Certificate.png" height="430"></a>
+  <a href="https://coursera.org/share/c6d7c3f8e936e7b63dcaaf6827f263e4"><img src="Certificate.png" height="430"></a>
 
 </p>

@@ -17,7 +17,7 @@ Throughout this course there will be numerous hands-on labs to help you develop 
 - Creating Visualizations and Dashboards with Cognos Analytics
 
 ## 📑 Projects
-- [Dashboard Project on Car Sales](Data%20Visualisation%20and%20Dashboards%20with%20Excel%20and%20Cognos/Week%204/Dashboard.pdf/) :
+- [Dashboard Project on Car Sales](Data%20Visualisation%20and%20Dashboards%20with%20Excel%20and%20Cognos/Week%205/DV0101EN-Exercise-Final-Assignment-Part-1-20230614-1686700800.jupyterlite.ipynb) :
 Demonstrate hands-on skills to create visualizations using Excel
 Apply hands-on skills to create visualizations and interactive dashboards using Cognos Analytics.
 Evaluate the predictive models project developed by your peers using the provided rubric and grading scheme
@@ -30,6 +30,6 @@ To verify the certificates, click the images to follow the links.
 
 
 <p align="middle">
-  <a href="https://coursera.org/share/f544e7b4ec6b124e885c62c6eb36f5eb"><img src="Certificate.png" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/U3ZRP636XKBJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"><img src="Certificate.png" height="430"></a>
 
 </p>
